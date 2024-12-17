@@ -85,7 +85,7 @@ void keyPressed() {
     }
   }
   if (keyCode==RIGHT) {
-    if (gameMode<rules.length) {
+    if (gameMode<rules.length-1) {
       gameMode++;
     }
   }

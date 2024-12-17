@@ -9,4 +9,8 @@ A number of cellular automata simulations similar to Conway's Game of Life.
 - a/d to change life density on reset
 - z/c to change color scheme
 
-To play on windows, download the [windows-amd64 folder](https://github.com/123xxgamer/life-sims/tree/b832993c0b817515af716e8450877a385f6d3da1/lifeSimulations/windows-amd64) and run the lifeSimulations.exe file. If it doesn't work, you might need to install the [OpenCDK 17 framework](https://adoptium.net/temurin/releases/?version=17&os=windows). 
+To play on windows, download the [windows-amd64 folder](https://github.com/123xxgamer/life-sims/tree/b832993c0b817515af716e8450877a385f6d3da1/lifeSimulations/windows-amd64) and run the lifeSimulations.exe file. If it doesn't work, you might need to install the [OpenCDK 17 framework](https://adoptium.net/temurin/releases/?version=17&os=windows).
+
+To play on Linux, download the [linux-amd64 folder](https://github.com/123xxgamer/life-sims/tree/59c789278171809337bab41e9e366836133d092b/lifeSimulations/linux-amd64) and run lifeSimulations. You need to have the [OpenCDK 17 framework](https://adoptium.net/temurin/releases/?version=17&os=linux) installed.
+
+https://youtu.be/FGjrel4ypF8

@@ -14,3 +14,5 @@ To play on windows, download the [windows-amd64 folder](https://github.com/123xx
 To play on Linux, download the [linux-amd64 folder](https://github.com/123xxgamer/life-sims/tree/59c789278171809337bab41e9e366836133d092b/lifeSimulations/linux-amd64) and run lifeSimulations. You need to have the [OpenCDK 17 framework](https://adoptium.net/temurin/releases/?version=17&os=linux) installed.
 
 https://youtu.be/FGjrel4ypF8
+
+![image](https://github.com/user-attachments/assets/f21be911-1020-4f57-a726-adccf0073649)
